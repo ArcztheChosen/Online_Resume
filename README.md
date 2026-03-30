@@ -1,1 +1,4 @@
-# ONLINE-RESUME-BY-JHONMARK
+# My Online Resume
+
+- Using HTML, CSS, and JavaScript
+- 
